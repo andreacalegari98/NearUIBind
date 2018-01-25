@@ -30,9 +30,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="Xamarin.iOS" />
-    <Reference Include="NeariOSBind">
-      <HintPath>..\..\..\iOS-Bind\NeariOSBind\bin\Debug\NeariOSBind.dll</HintPath>
-    </Reference>
     <Reference Include="Xamarin.Swift4">
       <HintPath>..\packages\Xamarin.Swift4.4.0.0.0\lib\xamarinios10\Xamarin.Swift4.dll</HintPath>
     </Reference>
